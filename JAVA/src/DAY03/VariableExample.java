@@ -15,6 +15,10 @@ public class VariableExample {
 		// 변수를 사용한 부분 -->
 		int ageSum = age + age2;
 		System.out.println("age+age2=" + ageSum);
+	
+		// 자바 예약어는 변수명으로 쓸 수 없음
+		// int if; 	int for;  int break;
+		
+		
 	}
-
 }
