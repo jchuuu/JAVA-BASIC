@@ -12,6 +12,7 @@ public class VariableExample {
 		int age2 = 20; // 선언과 동시에 초기화		
 		// int age; 같은 이름의 변수를 또 선언할 수 없다(컴파일에러)
 		
+		// 변수를 사용한 부분 -->
 		int ageSum = age + age2;
 		System.out.println("age+age2=" + ageSum);
 	}
