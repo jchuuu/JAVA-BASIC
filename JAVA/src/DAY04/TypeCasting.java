@@ -14,6 +14,8 @@ public class TypeCasting {
 		   System.out.println("x="+x);
 		   System.out.println("y="+y);
 		 		 		
+        
+        //goorm ide
 	}
 }
 
