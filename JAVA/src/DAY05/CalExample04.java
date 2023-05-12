@@ -19,6 +19,7 @@ public class CalExample04 {
         System.out.println("b = " + b); // b = 20
 
         // |
+
         System.out.println(b <= 20 | b-- < 20);
         System.out.println("b = " + b); // b = 19
     }
