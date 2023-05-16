@@ -41,6 +41,12 @@ public class ArrayCopyExample { //p133
 		// Arrays.copyOf(null, 0);
 		
 		
+		// *** 향상된 for문 ***
+		System.out.println("향상된 for문 사용하여 배열 꺼내기");
+		for(int val : b2) {
+			System.out.println(val);
+		}// b2에 있는 값들을 val에 복사!
+		
 	}
 
 }
